@@ -1,0 +1,258 @@
+
+(kicad_symbol_lib (version 20211014) (generator kicad_symbol_editor)
+  (symbol "MAGNETIC-HMC5883L(PLCC16)" (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
+    (property "Reference" "U" (id 0) (at 17.8072 22.8949 0)
+      (effects (font (size 1.27 1.27)) (justify bottom left))
+    )
+    (property "Value" "MAGNETIC-HMC5883L(PLCC16)" (id 1) (at 17.7994 20.3422 0)
+      (effects (font (size 1.27 1.27)) (justify bottom left))
+    )
+    (property "Footprint" "PLCC16-0.5-3X3MM" (id 2) (at 0 0 0)
+      (effects (font (size 1.27 1.27)) (justify bottom) hide)
+    )
+    (property "MPN" "HMC5883L" (id 4) (at 0 0 0)
+      (effects (font (size 1.27 1.27)) (justify bottom) hide)
+    )
+    (property "VALUE" "HMC5883L" (id 5) (at 0 0 0)
+      (effects (font (size 1.27 1.27)) (justify bottom) hide)
+    )
+    (symbol "MAGNETIC-HMC5883L(PLCC16)_0_0"
+      (polyline
+        (pts (xy 20.32 -19.05) (xy 20.32 -7.62)) (stroke (width 0.254))
+      )
+      (polyline
+        (pts (xy 20.32 -7.62) (xy 20.32 -2.54)) (stroke (width 0.254))
+      )
+      (polyline
+        (pts (xy 20.32 -2.54) (xy 20.32 2.54)) (stroke (width 0.254))
+      )
+      (polyline
+        (pts (xy 20.32 2.54) (xy 20.32 7.62)) (stroke (width 0.254))
+      )
+      (polyline
+        (pts (xy 20.32 7.62) (xy 20.32 20.32)) (stroke (width 0.254))
+      )
+      (polyline
+        (pts (xy 20.32 20.32) (xy 7.62 20.32)) (stroke (width 0.254))
+      )
+      (polyline
+        (pts (xy 7.62 20.32) (xy 2.54 20.32)) (stroke (width 0.254))
+      )
+      (polyline
+        (pts (xy 2.54 20.32) (xy -2.54 20.32)) (stroke (width 0.254))
+      )
+      (polyline
+        (pts (xy -2.54 20.32) (xy -7.62 20.32)) (stroke (width 0.254))
+      )
+      (polyline
+        (pts (xy -7.62 20.32) (xy -20.32 20.32)) (stroke (width 0.254))
+      )
+      (polyline
+        (pts (xy -20.32 20.32) (xy -20.32 7.62)) (stroke (width 0.254))
+      )
+      (polyline
+        (pts (xy -20.32 7.62) (xy -20.32 2.54)) (stroke (width 0.254))
+      )
+      (polyline
+        (pts (xy -20.32 2.54) (xy -20.32 -2.54)) (stroke (width 0.254))
+      )
+      (polyline
+        (pts (xy -20.32 -2.54) (xy -20.32 -7.62)) (stroke (width 0.254))
+      )
+      (polyline
+        (pts (xy -20.32 -7.62) (xy -20.32 -19.05)) (stroke (width 0.254))
+      )
+      (polyline
+        (pts (xy -20.32 -19.05) (xy -7.62 -19.05)) (stroke (width 0.254))
+      )
+      (polyline
+        (pts (xy -7.62 -19.05) (xy -2.54 -19.05)) (stroke (width 0.254))
+      )
+      (polyline
+        (pts (xy -2.54 -19.05) (xy 2.54 -19.05)) (stroke (width 0.254))
+      )
+      (polyline
+        (pts (xy 2.54 -19.05) (xy 7.62 -19.05)) (stroke (width 0.254))
+      )
+      (polyline
+        (pts (xy 7.62 -19.05) (xy 20.32 -19.05)) (stroke (width 0.254))
+      )
+      (polyline
+        (pts (xy -21.59 7.62) (xy -20.32 7.62)) (stroke (width 0.1524))
+      )
+      (polyline
+        (pts (xy -21.59 2.54) (xy -20.32 2.54)) (stroke (width 0.1524))
+      )
+      (polyline
+        (pts (xy -21.59 -2.54) (xy -20.32 -2.54)) (stroke (width 0.1524))
+      )
+      (polyline
+        (pts (xy -21.59 -7.62) (xy -20.32 -7.62)) (stroke (width 0.1524))
+      )
+      (polyline
+        (pts (xy 20.32 7.62) (xy 21.59 7.62)) (stroke (width 0.1524))
+      )
+      (polyline
+        (pts (xy 20.32 2.54) (xy 21.59 2.54)) (stroke (width 0.1524))
+      )
+      (polyline
+        (pts (xy 20.32 -2.54) (xy 21.59 -2.54)) (stroke (width 0.1524))
+      )
+      (polyline
+        (pts (xy 20.32 -7.62) (xy 21.59 -7.62)) (stroke (width 0.1524))
+      )
+      (polyline
+        (pts (xy -7.62 20.32) (xy -7.62 21.59)) (stroke (width 0.1524))
+      )
+      (polyline
+        (pts (xy -2.54 20.32) (xy -2.54 21.59)) (stroke (width 0.1524))
+      )
+      (polyline
+        (pts (xy 2.54 20.32) (xy 2.54 21.59)) (stroke (width 0.1524))
+      )
+      (polyline
+        (pts (xy 7.62 20.32) (xy 7.62 21.59)) (stroke (width 0.1524))
+      )
+      (polyline
+        (pts (xy 7.62 -20.32) (xy 7.62 -19.05)) (stroke (width 0.1524))
+      )
+      (polyline
+        (pts (xy 2.54 -20.32) (xy 2.54 -19.05)) (stroke (width 0.1524))
+      )
+      (polyline
+        (pts (xy -2.54 -20.32) (xy -2.54 -19.05)) (stroke (width 0.1524))
+      )
+      (polyline
+        (pts (xy -7.62 -20.32) (xy -7.62 -19.05)) (stroke (width 0.1524))
+      )
+      (pin bidirectional line (at -24.13 7.62 0) (length 2.54)
+        (name "1(SCL)"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "1"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin power_in line (at -24.13 2.54 0) (length 2.54)
+        (name "2(VDD)"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "2"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin no_connect line (at -24.13 -2.54 0) (length 2.54)
+        (name "3(NC)"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "3"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin bidirectional line (at -24.13 -7.62 0) (length 2.54)
+        (name "4(S1)"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "4"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin no_connect line (at -7.62 -22.86 90.0) (length 2.54)
+        (name "5(NC)"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "5"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin no_connect line (at -2.54 -22.86 90.0) (length 2.54)
+        (name "6(NC)"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "6"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin no_connect line (at 2.54 -22.86 90.0) (length 2.54)
+        (name "7(NC)"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "7"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin bidirectional line (at 7.62 -22.86 90.0) (length 2.54)
+        (name "8(SETP)"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "8"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin power_in line (at 24.13 -7.62 180.0) (length 2.54)
+        (name "9(GND)"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "9"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin bidirectional line (at 24.13 -2.54 180.0) (length 2.54)
+        (name "10(C1)"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "10"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin power_in line (at 24.13 2.54 180.0) (length 2.54)
+        (name "11(GND)"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "11"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin bidirectional line (at 24.13 7.62 180.0) (length 2.54)
+        (name "12(SETC)"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "12"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin power_in line (at 7.62 24.13 270.0) (length 2.54)
+        (name "13(VDDIO)"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "13"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin no_connect line (at 2.54 24.13 270.0) (length 2.54)
+        (name "14(NC)"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "14"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin bidirectional line (at -2.54 24.13 270.0) (length 2.54)
+        (name "15(DRDY)"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "15"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin bidirectional line (at -7.62 24.13 270.0) (length 2.54)
+        (name "16(SDA)"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "16"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+    )
+  )
+)

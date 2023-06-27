@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "MAGNETIC-HMC5883L_PLCC16_")(type "KiCad")(uri "${KIPRJMOD}/lib/MAGNETIC-HMC5883L_PLCC16_.kicad_sym")(options "")(descr ""))
+)
